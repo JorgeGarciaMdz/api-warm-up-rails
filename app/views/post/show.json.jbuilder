@@ -1,0 +1,1 @@
+json.post @post, :id, :title, :content, :image, :category, :created_at
